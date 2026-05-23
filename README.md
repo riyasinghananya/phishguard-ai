@@ -19,3 +19,4 @@ AI-based cybersecurity project developed using Django, Python, and Machine Learn
 
 ## Developed By
 - Ananya Singh
+- priyanshi kumari
